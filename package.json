@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-exavault",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ExaVault API integrates file transfer and user management tools into applications, supporting POST requests.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-exavault",
